@@ -1,0 +1,24 @@
+{ "articles": [
+  {
+    "titre_newsletter": "SpaceX vaut 86 milliards",
+    "synthese_flash": "L'entrée en bourse de SpaceX redéfinit la valorisation du secteur spatial.",
+    "contexte_macro_micro": "Après des années de spéculation, l'IPO concrétise enfin la valeur de marché.",
+    "mecanique_de_l_evenement": "L'offre publique fixe un prix de référence que les investisseurs valident massivement.",
+    "impact_financier": {
+      "actifs_concernes": ["SpaceX", "Secteur spatial"],
+      "tendance_marche": "Haussière",
+      "explication_impact": "La valorisation tire vers le haut tout le secteur spatial coté."
+    },
+    "analyse_critique_et_biais": {
+      "piege_psychologique": "L'euphorie d'IPO pousse à surévaluer les perspectives de court terme.",
+      "ce_que_le_marche_oublie": "Les coûts d'exécution réels sur le long terme restent incertains."
+    },
+    "radar_fractal": {
+      "volatilite_attendue": 4, "risque_systemique": 2, "fiabilite_information": 4,
+      "horizon_impact": "Court terme (semaines)"
+    },
+    "catalyseur_a_surveiller": "Les prochains résultats trimestriels et contrats signés.",
+    "disclaimer": "Contenu éducatif, pas un conseil en investissement.",
+    "_meta": { "source": "Reuters", "lien_source": "https://example.com/spacex" }
+  }
+] }
